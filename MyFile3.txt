@@ -1,0 +1,1 @@
+Evaluate multiple commit with third file
